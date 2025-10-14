@@ -1,3 +1,2 @@
-\Polaris - Pandas\env
-\SimpleRAG\env
-\Polaris - Pandas\yellow_tripdata_2019-01.csv
+env/
+Polaris - Pandas/yellow_tripdata_2019-01.csv
