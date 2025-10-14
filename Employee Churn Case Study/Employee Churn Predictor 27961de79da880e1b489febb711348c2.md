@@ -43,7 +43,7 @@ Most of the data gathered is numerical, with categorical attributes also represe
 
 To ensure data reliability, preprocessing applies standard quality checks. Missing values are imputed or removed depending on relevance, duplicates are eliminated, and outliers are assessed to prevent distortions. Engineered variables such as average monthly hours and tenure categories further enrich the model’s predictive capacity. For now, data is collected as periodic snapshots, but future iterations may adopt real-time pipelines once the initial model proves effective.
 
-[employee_churn_data_dictionary.csv](data/employee_churn_data_dictionary.csv)
+[employee_churn_data_dictionary.csv](docs/employee_churn_data_dictionary.csv)
 
 ## Methodology & Pipeline Diagram
 
@@ -67,7 +67,7 @@ Deployment of the Churn Predictor follows the MLOps lifecycle to ensure scalabil
 
 This approach moves the project from a simple CSV-based pilot to a production-ready MLOps ecosystem aligned with the project timeline and milestones.
 
-![Simple Project Pipeline.drawio.png](/img/Simple_Project_Pipeline.drawio.png)
+![Simple Project Pipeline.drawio.png](img/Simple_Project_Pipeline.drawio.png)
 
 ***Figure 1. ML Pipeline***
 
