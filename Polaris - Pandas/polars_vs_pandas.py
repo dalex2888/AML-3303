@@ -62,16 +62,6 @@ result_pl = df_pl.filter(pl.col('passenger_count') > 2).select(pl.col('total_amo
 
 pl_revenue = df_pl.group_by('passenger_count').agg(pl.col('total_amount').sum())
 print(pl_revenue)
-#2. What is the average tip amount and maximum tip for each passenger group?
-tips = df_pl.group_by('passenger_count').agg([
-    pl.col('tip_amount').sum().alias('sum'),
-    pl.col('tip_amount').max().alias('max')
-])
-print(tips)
-
-#3. How many trips occur per passenger group?
-trips_passengers = df_pl.group_by('passenger_count').agg(pl.len().alias('trips'))
-print(trips_passengers)
 
 end = time.time()
 print("Polars result:", result_pl)
