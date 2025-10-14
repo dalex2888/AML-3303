@@ -1,0 +1,2 @@
+Polaris - Pandas\env
+SimpleRAG\env

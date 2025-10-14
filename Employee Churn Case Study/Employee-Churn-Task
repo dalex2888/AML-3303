@@ -1,0 +1,19 @@
+## Context
+
+TechNova Solutions, a mid-sized IT services company with ~1,200 employees, has been facing an attrition rate well above industry standards. Despite offering competitive salaries and benefits, the company struggles to retain talent, particularly in technical and client-facing roles. This turnover has increased costs, delayed projects, and reduced overall employee satisfaction.
+
+## Problem Statement
+
+You have recently been hired as a Data Scientist at TechNova Solutions to help the HR department tackle a rising attrition problem. The company currently lacks a systematic way to identify employees who are at risk of leaving, which means retention efforts are applied too late — only after employees have already decided to resign.
+This reactive approach has led to:
+- Increased recruitment and onboarding costs.
+- Disruption of client projects due to sudden departures.
+- Declining morale among teams with frequent turnover.
+Your role is to bring a data-driven solution that not only predicts which employees are most at risk of leaving but also helps HR make smarter decisions on incentives and retention strategies. For example, employees identified as high performers with a high risk of churn can be prioritized for bonuses, career growth plans, or other incentives. Conversely, the company can optimize resources by not over-investing in employees who are already disengaged and unlikely to stay even with incentives.
+
+
+## Objective
+
+- Analyze the dataset to uncover the key factors influencing attrition.
+- Build a predictive model that can classify whether an employee is likely to leave.
+- Provide actionable recommendations that can help HR improve retention and employee satisfaction.
