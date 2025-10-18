@@ -1,0 +1,22 @@
+artifact_path: file:///C:/Users/diego/OneDrive%20-%20Lambton%20College/AIML/Term%203/Software%20Tools%20and%20Emerging%20Technologies/GitExcercises/AML-3303/mlflow/mlruns/0/models/m-170f7230c4f146579ddfa7db6b5d4978/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.13.7
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.2
+mlflow_version: 3.5.0
+model_id: m-170f7230c4f146579ddfa7db6b5d4978
+model_size_bytes: 67382
+model_uuid: m-170f7230c4f146579ddfa7db6b5d4978
+prompts: null
+run_id: 72ddb90831d7409c973e19373fb50431
+utc_time_created: '2025-10-18 01:02:02.436771'

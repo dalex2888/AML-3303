@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/diego/OneDrive%20-%20Lambton%20College/AIML/Term%203/Software%20Tools%20and%20Emerging%20Technologies/GitExcercises/AML-3303/mlflow/mlruns/0/72ddb90831d7409c973e19373fb50431/artifacts
+end_time: 1760749329198
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 72ddb90831d7409c973e19373fb50431
+run_name: awesome-quail-751
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760749322210
+status: 3
+tags: []
+user_id: diego

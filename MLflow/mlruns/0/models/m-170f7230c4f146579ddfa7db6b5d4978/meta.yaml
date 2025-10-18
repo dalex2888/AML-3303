@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/diego/OneDrive%20-%20Lambton%20College/AIML/Term%203/Software%20Tools%20and%20Emerging%20Technologies/GitExcercises/AML-3303/mlflow/mlruns/0/models/m-170f7230c4f146579ddfa7db6b5d4978/artifacts
+creation_timestamp: 1760749322374
+experiment_id: '0'
+last_updated_timestamp: 1760749329177
+model_id: m-170f7230c4f146579ddfa7db6b5d4978
+model_type: null
+name: model
+source_run_id: 72ddb90831d7409c973e19373fb50431
+status: 2
+status_message: null

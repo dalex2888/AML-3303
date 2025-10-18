@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/diego/OneDrive%20-%20Lambton%20College/AIML/Term%203/Software%20Tools%20and%20Emerging%20Technologies/GitExcercises/AML-3303/mlflow/mlruns/0/2b64b22d8b5d4e93a405f5570ff37f7f/artifacts
+end_time: 1760749999389
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2b64b22d8b5d4e93a405f5570ff37f7f
+run_name: popular-mink-474
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760749992709
+status: 3
+tags: []
+user_id: diego
