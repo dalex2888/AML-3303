@@ -1,2 +1,37 @@
-/env
-/data
+# Virtual Environment
+env/
+
+# Data files
+data/
+*.csv
+*.xlsx
+
+# Jupyter Notebooks checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# MLflow artifacts
+mlruns/
+mlartifacts/
+
+# AWS credentials
+*.pem
+*.key
+config/credentials.yaml
+.aws/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.log
+*.tmp
