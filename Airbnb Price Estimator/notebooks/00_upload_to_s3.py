@@ -12,7 +12,7 @@ s3_key = 'raw_data/listings.csv'
 # Step 1: Create bucket
 try:
     s3.create_bucket(Bucket=bucket_name)
-    print(f"✓ Bucket '{bucket_name}' created successfully")
+    print(f"Bucket '{bucket_name}' created successfully")
 except ClientError as e:
     if e.response['Error']['Code'] == 'BucketAlreadyOwnedByYou':
         print(f"Bucket '{bucket_name}' already exists (owned by you)")
