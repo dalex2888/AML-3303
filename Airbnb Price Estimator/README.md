@@ -549,4 +549,4 @@ This project is for educational purposes as part of the Applied Machine Learning
 
 **Diego Alexander Espinosa Carreño**  
 Email: [c0921125@mylambton.ca]  
-LinkedIn: linkedin.com/in/diegoespinosacarreno
+LinkedIn: [linkedin.com/in/diegoespinosacarreno]
