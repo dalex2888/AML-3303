@@ -242,13 +242,13 @@ All 17 model configurations were systematically tracked in MLflow, enabling obje
 
 ### Experiment Overview
 
-![MLflow Experiments Overview](/screenshots/mlflow_experiments_overview.png)
+![MLflow Experiments Overview](https://raw.githubusercontent.com/dalex2888/AML-3303/main/screenshots/mlflow_experiments_overview.png)
 
 The table shows all experiments filtered by `dataset_version = "v2"` and sorted by `r2_comparable` (descending). XGBoost models clearly dominate the top rankings.
 
 ### Best Model Details
 
-![Best Model Details](/screenshots/mlflow_best_model_details.png)
+![Best Model Details](https://raw.githubusercontent.com/dalex2888/AML-3303/main//screenshots/mlflow_best_model_details.png)
 
 The winning model (`xgb_v2_n200_d7_lr0.1`) includes complete tracking of:
 - Hyperparameters: n_estimators=200, max_depth=7, learning_rate=0.1
@@ -257,7 +257,7 @@ The winning model (`xgb_v2_n200_d7_lr0.1`) includes complete tracking of:
 
 ### Model Registry
 
-![Model Registry](/screenshots/mlflow_registered_model.png)
+![Model Registry](https://raw.githubusercontent.com/dalex2888/AML-3303/main//screenshots/mlflow_registered_model.png)
 
 The best model was registered in MLflow Model Registry with comprehensive documentation including:
 - Model details and hyperparameters
