@@ -78,7 +78,7 @@ airbnb-price-prediction/
 
 **1. Clone the repository:**
 ```bash
-git clone https://github.com/YOUR_USERNAME/airbnb-price-prediction.git
+git clone https://github.com/dalex2888/AML-3303.git
 cd airbnb-price-prediction
 ```
 
@@ -544,3 +544,9 @@ This project is for educational purposes as part of the Applied Machine Learning
 - **Best R²:** 0.496
 - **Development Time:** 3 days
 - **Lines of Code:** ~2,000 (across notebooks)
+
+## 👤 Author
+
+**Diego Alexander Espinosa Carreño**  
+Email: [c0921125@mylambton.ca]  
+LinkedIn: linkedin.com/in/diegoespinosacarreno
